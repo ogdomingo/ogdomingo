@@ -2,7 +2,7 @@
 
 I'm Domos an iOS developer from Sweden.
 
-🔭 I’m currently working on a language learning app.
+🔭 I’m currently working on a language learning app. <br/>
 🌱 I’m currently learning 3D modeling and animation (soon moving on to Rive animations).
 
 <!--
