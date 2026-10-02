@@ -3,7 +3,7 @@
 I'm Domos an iOS developer from Sweden.
 
 🔭 I’m currently working on a language learning app. <br/>
-🌱 I’m currently learning 3D modeling and animation (soon moving on to Rive animations).
+🌱 I’m currently learning 3D modeling and animation.
 
 <!--
 **ogdomingo/ogdomingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
